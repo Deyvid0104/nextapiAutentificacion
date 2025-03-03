@@ -1,0 +1,13 @@
+# Módulos de Node
+node_modules/
+
+# Salida de construcción
+.next/
+
+# Variables de entorno
+.env
+
+# Registros
+logs
+*.log
+npm-debug.log*
